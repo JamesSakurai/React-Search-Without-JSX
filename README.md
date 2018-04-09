@@ -1,3 +1,18 @@
+#React Search -  No JSX
+
+#Installation
+
+Run
+
+<code>npm install</code>
+
+Run
+
+<code>npm start</code>
+
+
+
+#REACT AUTO GENERATED DOCS
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
